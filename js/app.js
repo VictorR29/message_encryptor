@@ -50,7 +50,7 @@ function decrypt(text) {
   }
 }
 
-// FUNCIONES TIPOS DE ENCRIPTADO U DESCENCRIPTADO
+// FUNCIONES TIPOS DE ENCRIPTADO O DESCENCRIPTADO
 
 function inverse(text) {
   showMessage.innerHTML = "";
